@@ -1,7 +1,0 @@
-This is version one
-direct commit
-hello nikola
-hello revision
-changed by sid
-hello techno
-hello ram
